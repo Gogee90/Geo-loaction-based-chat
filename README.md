@@ -1,4 +1,6 @@
 # geo_locarion_based_chat
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 > A Vue.js project
 
@@ -12,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Gogee90/Geo-loaction-based-chat">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png">
   </a>
 
   <h3 align="center">JavaScript --> [Geo location chat]</h3>
