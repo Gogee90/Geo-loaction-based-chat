@@ -11,11 +11,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vzdrizhni/Tic-tac-toe_JS">
-    <img src="./src/assets/microverse.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Gogee90/Geo-loaction-based-chat">
+    <img src="https://banner2.cleanpng.com/20180701/puh/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da4146f70.8054310515304861800837.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">JavaScript --> [Tic Tac Toe]</h3>
+  <h3 align="center">JavaScript --> [Geo location chat]</h3>
 
   <p align="center">
     This project is part of the Microverse curriculum in JavaScript module!
@@ -44,11 +44,6 @@
 ## About The Project
 
 In this project, the student builds a Chat based on geo-location using vue.js and firebase as a database.
-
-<p float="left" align="center">
-  <img src="./src/assets/smartmockups_kbonzmh4.png" width="300" />
-  <img src="./src/assets/smartmockups_kbonxojq.png" width="300" />
-</p>
 
 ### Built With
 This project was built using these technologies.
@@ -127,21 +122,3 @@ Give a :star: if you like this project!
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
