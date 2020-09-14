@@ -12,21 +12,18 @@
 <br />
 <p align="center">
   <a href="https://github.com/Gogee90/Geo-loaction-based-chat">
-    <img src="https://banner2.cleanpng.com/20180701/puh/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da4146f70.8054310515304861800837.jpg" alt="Logo" width="80" height="80">
+    <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vue.js_Logo_2.svg">
   </a>
 
   <h3 align="center">JavaScript --> [Geo location chat]</h3>
 
   <p align="center">
-    This project is part of the Microverse curriculum in JavaScript module!
-    <br />
     <a href="https://github.com/Gogee90/geo_ninjas"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Gogee90/geo_ninjas/issues">Report Bug</a>
     ·
     <a href="https://github.com/Gogee90/geo_ninjas/issues">Request Feature</a>
-
   </p>
 </p>
 
@@ -93,7 +90,7 @@ To have this app on your pc, you need to:
 
 👤 **Igor Nikolaev**
 
-- LinkedIn: [Igor Nikolaev](https://www.linkedin.com/in/roman-nikolaev-65b639197/) -
+- LinkedIn: [Igor Nikolaev](https://www.linkedin.com/in/igor-nikolaev-orenburg/) -
 - GitHub: [@Gogee90](https://github.com/Gogee90)
 - E-mail: gogee09@gmail.com
 
