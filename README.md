@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Gogee90/Geo-loaction-based-chat">
-    <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vue.js_Logo_2.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
   </a>
 
   <h3 align="center">JavaScript --> [Geo location chat]</h3>
@@ -39,6 +39,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 In this project, the student builds a Chat based on geo-location using vue.js and firebase as a database.
 
@@ -107,14 +109,11 @@ Give a :star: if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vzdrizhni/Tic-tac-toe_JS.svg?style=flat-square
-[contributors-url]: https://github.com/vzdrizhni/Tic-tac-toe_JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vzdrizhni/Tic-tac-toe_JS.svg?style=flat-square
-[forks-url]: https://github.com/vzdrizhni/Tic-tac-toe_JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/vzdrizhni/Tic-tac-toe_JS.svg?style=flat-square
-[stars-url]: https://github.com/vzdrizhni/Tic-tac-toe_JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vzdrizhni/Tic-tac-toe_JS.svg?style=flat-square
-[issues-url]: https://github.com/vzdrizhni/Tic-tac-toe_JS/issues
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/Gogee90/-/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/igor-nikolaev-orenburg/
+[product-screenshot]: https://skr.sh/i/140920/6j47hzcB.jpg?download=1
 
 ## 📝 License
 
