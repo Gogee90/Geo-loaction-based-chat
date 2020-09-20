@@ -41,7 +41,7 @@
 In this project, i've built a Chat based on geo-location using vue.js and firebase as a database.
 
 You can check the demo here:
-https://epic-kalam-5f8e40.netlify.app/
+https://naughty-noyce-b55d8d.netlify.app/login
 
 ### Built With
 This project was built using these technologies.
