@@ -38,7 +38,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-In this project, the student builds a Chat based on geo-location using vue.js and firebase as a database.
+In this project, i've built a Chat based on geo-location using vue.js and firebase as a database.
+
+You can check the demo here:
+https://epic-kalam-5f8e40.netlify.app/
 
 ### Built With
 This project was built using these technologies.
