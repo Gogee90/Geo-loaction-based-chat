@@ -1,4 +1,4 @@
-# geo_locarion_based_chat
+# geo_location_based_chat
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -41,7 +41,7 @@
 In this project, i've built a Chat based on geo-location using vue.js and firebase as a database.
 
 You can check the demo here:
-https://naughty-noyce-b55d8d.netlify.app/login
+https://relaxed-nightingale-bb7716.netlify.app/
 
 ### Built With
 This project was built using these technologies.
